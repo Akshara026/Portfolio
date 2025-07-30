@@ -1,4 +1,4 @@
-# Personal Portfolio – Akshara
+# Personal Portfolio
 
 This is my personal portfolio website built with React and Tailwind CSS.  
 It highlights my background, skills, key projects, and contact information.
